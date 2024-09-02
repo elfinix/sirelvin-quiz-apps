@@ -8,7 +8,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 ## 💼 Inclusions
 
-1. **Geode** - A quiz related to the geological field of the world
+1. **⏳ Geode** - A quiz related to the geological field of the world
 
     ```
     Module 14: Geologic Timeline
@@ -17,7 +17,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
     Learning Code: S11/12ES-Ie-29
     ```
 
-2. **Cyclone** - A quiz related to the hydrometerological concepts and occurrences
+2. **💧 Cyclone** - A quiz related to the hydrometerological concepts and occurrences
 
     ```
     Module 18: Hydrometeorological Phenomena and Hazards
@@ -26,7 +26,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
     Learning Code: S11/12ES-Ig-36
     ```
 
-3. **Serum** - A quiz related to the biological realms of science
+3. **💊 Serum** - A quiz related to the biological realms of science
 
     ```
     Module 23: Perpetuation of Life
@@ -35,7 +35,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
     Learning Code: S11/12ES-Ig-36
     ```
 
-4. **Helix** - A quiz related to advanced genetics
+4. **🧬 Helix** - A quiz related to advanced genetics
 
     ```
     Module 24: Genetic Engineering
