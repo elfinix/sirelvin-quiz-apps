@@ -1,3 +1,5 @@
+![banner](https://github.com/user-attachments/assets/0b45a932-0dd1-44c1-920d-02c2d18077bb)
+
 # Earth and Life Science Quizzes
 
 This series of quiz applications are designed to be supplementary educational materials for navigating the course of ELS: Earth and Life Science for the high school academe.
