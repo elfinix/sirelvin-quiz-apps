@@ -64,7 +64,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 | #   | Quiz Title | Module                                               | Password   | Download Link      |
 | --- | ---------- | ---------------------------------------------------- | ---------- | ------------------ |
-| 1   | Geode      | Module 14: Geologic Timeline                         | GEOLOGY14  | [download Geode]() |
+| 1   | Geode      | Module 14: Geologic Timeline                         | GEOLOGY14  | [download Geode](https://github.com/elfinix/sirelvin-quiz-apps/releases/download/v1.0/Geode.apk) |
 | 2   | Cyclone    | Module 18: Hydrometeorological Phenomena and Hazards | HYDRO18    | _available soon_   |
 | 3   | Serum      | Module 23: Perpetuation of Life                      | BIOLOGY23  | _available soon_   |
 | 4   | Helix      | Module 24: Genetic Engineering                       | GENETICS24 | _available soon_   |
