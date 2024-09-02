@@ -87,6 +87,8 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 If you believe any content in this project infringes on your rights or the rights of others, please contact us to address your concerns.
 
+Credits for Background Music: [@drazorleaf](https://www.youtube.com/@drazorleaf)
+  
 Proponent: Elvin L. Jarito, Ph.D.<br>
 Developer: [@eflinix](https://github.com/elfinix)
 
