@@ -79,6 +79,8 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 3. **You are ready to go!** Open the application and log in with your information.
 
+4. *When prompted only by the Google Play Store*, click on More Details > Install without scanning
+
 ## 📜 Publication Disclaimer
 
 **Fair Use Disclaimer:** This project may include content, code, or libraries that are subject to fair use provisions. All third-party resources used are acknowledged and intended for educational or non-commercial purposes only.
