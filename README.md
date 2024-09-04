@@ -2,7 +2,7 @@
 
 # Earth and Life Science Quizzes
 
-This series of quiz applications are designed to be supplementary educational materials for navigating the course of ELS: Earth and Life Science for the high school academe.
+This series of quiz applications is designed to be supplementary educational materials for navigating the course of ELS: Earth and Life Science for the high school academe.
 
 By integrating modern applications into learning, students may be more technologically adept while assimilating the lessons learned in the classroom.
 
@@ -19,7 +19,7 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
     Learning Code: S11/12ES-Ie-29
     ```
 
-2. **💧 Cyclone** - A quiz related to the hydrometerological concepts and occurrences
+2. **💧 Cyclone** - A quiz related to the hydrometeorological concepts and occurrences
 
     ```
     Module 18: Hydrometeorological Phenomena and Hazards
@@ -48,13 +48,13 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 ## 🏁 Features
 
--   **Shifting Wallpaper:** Experience a different taste every time you open the app.
+-   **Shifting Wallpaper:** Experience a different taste whenever you open the app.
 -   **Password Protection:** Input password from the instructor to avoid leaks.
 -   **About Section:** Stay oriented by getting to know the information on the application.
 -   **Dashboard and Instructions:** Be greeted by the application with the inherent guidelines in proceeding to the quiz
--   **Responsiveness:** Navigate the quiz with ease with auto-adjusting font size and scrolling.
+-   **Responsiveness:** Navigate the quiz easily with auto-adjusting font size and scrolling.
 -   **Badge Results:** After taking the quiz, see your badge (i.e., bronze, silver, gold) that can be screen-captured within the application.
--   **Offline:** Answer the quiz even without an internet or data connectivity.
+-   **Offline:** Answer the quiz even without internet or data connectivity.
 -   **Background Music:** Play in zen and enhance your immersion in the quiz.
 
 ## 📥 Download
@@ -74,9 +74,9 @@ This is an educational project utilizing Fair Use targeted for pedagogical purpo
 
 ### Getting Started
 
-1. **Download your app from the download links above.** An .apk file should be downloaded.\*\*
+1. **Download your app from the download links above.** An .apk file should be downloaded.
 
-2. **Allow downloads from unknown sources.** Go to your phone's Settings > Secuty > check the option "Unknown Sources"
+2. **Allow downloads from unknown sources.** Go to your phone's Settings > Security > check the option "Unknown Sources"
 
 3. **You are ready to go!** Open the application and log in with your information.
 
